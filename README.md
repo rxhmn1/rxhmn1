@@ -6,19 +6,6 @@
 * 📚 Currently on my learning journey.
 * 🚀 Interested in building projects and improving my coding skills.
 
-## 🛠️ Skills
-
-* C
-* C++
-* Java
-* Python
-* JavaScript
-* HTML
-* CSS
-* Node.js
-* Django
-* Basics of Machine Learning
-* Data Structures & Algorithms
 
 ## 💻 Tech Stack
 
