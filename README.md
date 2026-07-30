@@ -28,11 +28,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxhmn1\&layout=compact\&theme=radical)
 
-## 🎯 Currently Learning
-
-* 🤖 Machine Learning
-* 📊 Data Structures & Algorithms
-
 ## 📫 Contact Me
 
 * 📧 Email: **[abdulrahman.mgitcse@gmail.com](abdulrahman.mgitcse@gmail.com)**
